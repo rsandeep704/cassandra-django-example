@@ -1,0 +1,1 @@
+# cassandra-django-example
